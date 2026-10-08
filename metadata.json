@@ -1,0 +1,6 @@
+{
+  "name": "Manganese Reserve Explorer (AI/ML & Space Tech)",
+  "description": "Satellite multispectral band analysis and Machine Learning regression (Linear Regression & Random Forest) in Python to identify manganese reserves and overcome mineral production shortfalls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
